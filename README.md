@@ -1,6 +1,16 @@
 # qwant-basic-gl-style
+
 a very cool GL style for Qwant Maps
 
-See https://qwantresearch.github.io/qwant-basic-gl-style/
+![preview](preview/custom.png)
+![preview](preview/preview-10.png)
+![preview](preview/preview-4.png)
+![preview](preview/thumbnail.png)
 
-Use [the map style builder](https://github.com/QwantResearch/map-style-builder) to build it from this repo.
+## use it
+
+TODO (add some doc)
+
+## our sprite icons
+
+![sprite](sprite@2x.png)
